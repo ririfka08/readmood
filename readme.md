@@ -4,8 +4,6 @@
 
 ReadMood is a mood-based book discovery web application that helps readers find books based on how they feel rather than relying solely on genres or popularity. Whether you're looking for a cozy fantasy, an emotional coming-of-age novel, or a dark academia classic, ReadMood recommends books that match your current mood.
 
-Unlike traditional book catalog websites, ReadMood focuses on the reading experience. Users can explore curated recommendations using mood and vibe keywords such as *cozy*, *dark academia*, *found family*, *female rage*, or *books like LOTR*. Each recommendation is carefully tagged to create a more intuitive way of discovering books.
-
 ---
 
 ## Features
@@ -72,7 +70,7 @@ Unlike traditional book catalog websites, ReadMood focuses on the reading experi
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Open Library API integration
 * Reading tracker
