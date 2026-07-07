@@ -1,10 +1,10 @@
 # ReadMood
 
+> **ReadMood** — *What should I read right now?*
 **Find your next read by mood.**
 
-ReadMood is a mood-based book discovery web application that helps readers find books based on how they feel rather than relying solely on genres or popularity. Whether you're looking for a cozy fantasy, an emotional coming-of-age novel, or a dark academia classic, ReadMood recommends books that match your current mood.
 
----
+ReadMood is a mood-based book discovery web application that helps readers find books based on how they feel rather than relying solely on genres or popularity. Whether you're looking for a cozy fantasy, an emotional coming-of-age novel, or a dark academia classic, ReadMood recommends books that match your current mood.
 
 ## Features
 
@@ -16,7 +16,6 @@ ReadMood is a mood-based book discovery web application that helps readers find 
 * Explore curated recommendations
 * Filter books by genre, tags, or mood
 
----
 
 ##  Tech Stack
 
@@ -25,8 +24,3 @@ ReadMood is a mood-based book discovery web application that helps readers find 
 * **Database:** MySQL
 * **UI Design:** Figma
 * **Version Control:** Git & GitHub
-
----
-
-
-> **ReadMood** — *Every mood deserves a story.*
