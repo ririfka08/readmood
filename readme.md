@@ -13,34 +13,8 @@ ReadMood is a mood-based book discovery web application that helps readers find 
 * Browse book collections
 * Search books by title or author
 * Discover books by mood or vibe
-* View detailed book information
 * Explore curated recommendations
 * Filter books by genre, tags, or mood
-* View collection statistics
-
-### Admin Features
-
-* Secure admin login
-* Add, edit, and delete books
-* Manage book tags and moods
-* Upload book covers
-* Write short reviews and recommendations
-* Manage featured books
-
----
-
-## Example Mood Searches
-
-* Cozy Fantasy
-* Dark Academia
-* Found Family
-* Female Rage
-* Political Fantasy
-* Slow Burn Romance
-* Books Like LOTR
-* Japanese Literature
-* Autumn Vibes
-* Sad but Hopeful
 
 ---
 
