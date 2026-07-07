@@ -54,32 +54,5 @@ ReadMood is a mood-based book discovery web application that helps readers find 
 
 ---
 
-## Planned System Design
-
-* Software Requirements Specification (SRS)
-* User Flow
-* Sitemap
-* Use Case Diagram
-* Activity Diagram
-* Sequence Diagram
-* Entity Relationship Diagram (ERD)
-* Database Schema
-* Wireframe & UI Design
-* RESTful Routing
-* Black Box Testing
-
----
-
-##  Future Improvements
-
-* Open Library API integration
-* Reading tracker
-* Personal reading lists
-* Wishlist
-* Personalized recommendations
-* Reading statistics dashboard
-* User accounts and profiles
-
----
 
 > **ReadMood** — *Every mood deserves a story.*
