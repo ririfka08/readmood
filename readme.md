@@ -9,8 +9,6 @@ ReadMood is a mood-based book discovery web application that helps readers find 
 
 ## Features
 
-### Public Features
-
 * Browse book collections
 * Search books by title or author
 * Discover books by mood or vibe
